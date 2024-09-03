@@ -1,0 +1,23 @@
+body {
+    background-color: darkorange;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blue;
+    font-size: 70px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+p {
+    color: darkcyan;
+    font-size: 24px;
+    width: 80%;
+    margin: 0 auto;
+}
